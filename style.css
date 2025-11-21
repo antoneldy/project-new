@@ -1,9 +1,10 @@
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 13;
     color: rebeccapurple;
 }
 
 p {
     font-size: 11;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }

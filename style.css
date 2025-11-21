@@ -1,4 +1,9 @@
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 13;
+    color: rebeccapurple;
+}
+
+p {
+    font-size: 11;
 }
